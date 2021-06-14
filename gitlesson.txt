@@ -1,4 +1,3 @@
-homework
 1) Посмотреть где я - pwd;
 2) Создать папку - mkdir homework;
 3) Зайти в папку - cd homework;
@@ -38,4 +37,3 @@ homework
 Доп Задание:
 
 1) curl --x POST https://api.quarantine.country/api/v1/regions ;
-===============================================================================================

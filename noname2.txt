@@ -1,6 +1,0 @@
-line zero
-line one 
-line two 
-line free
-line four
-=========
